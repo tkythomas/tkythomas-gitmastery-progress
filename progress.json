@@ -1,0 +1,117 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786364148.78523,
+    "completed_at": 1786364151.826614,
+    "comments": [
+      "There are no new grocery list items added to the shopping list.",
+      "There are no grocery list items removed from the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786364468.168864,
+    "completed_at": 1786364471.290324,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786364514.198005,
+    "completed_at": 1786364517.338914,
+    "comments": [
+      "New grocery list items added to shopping-list.txt are not committed.",
+      "Grocery list items removed from shopping-list.txt are not committed."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786364614.760887,
+    "completed_at": 1786364616.124128,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786607509.223141,
+    "completed_at": 1786607511.216403,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786608499.561417,
+    "completed_at": 1786608502.83709,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 90f8231fc05729ffa37502b999c5f82f5f59145b? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786608635.529158,
+    "completed_at": 1786608638.844096,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 90f8231fc05729ffa37502b999c5f82f5f59145b? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786608680.178523,
+    "completed_at": 1786608683.98371,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 90f8231fc05729ffa37502b999c5f82f5f59145b? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786608868.611415,
+    "completed_at": 1786608872.031364,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786608947.581457,
+    "completed_at": 1786608951.054851,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786609024.132163,
+    "completed_at": 1786609025.788901,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786607412.762915,
+    "completed_at": 1786607414.161843,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
