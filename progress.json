@@ -284,5 +284,14 @@
       "You are missing the 'january-update' tag."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-update",
+    "started_at": 1787222126.67457,
+    "completed_at": 1787222129.874111,
+    "comments": [
+      "The 'april-update' tag is pointing to the wrong commit. It should point to the April commit."
+    ],
+    "status": "Incomplete"
   }
 ]
