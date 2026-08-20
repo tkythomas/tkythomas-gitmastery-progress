@@ -266,5 +266,14 @@
       "\"v1.0\" should point to the commit that updates March duty roster."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787221053.244123,
+    "completed_at": 1787221054.614461,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
