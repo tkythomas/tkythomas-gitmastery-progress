@@ -491,5 +491,14 @@
       "Expected commit message of 'Add the delete feature', got 'Added delete feature' instead."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787745194.78597,
+    "completed_at": 1787745196.533858,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
