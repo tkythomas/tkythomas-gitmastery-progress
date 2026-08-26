@@ -482,25 +482,5 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1787744780.524072,
-    "completed_at": 1787744783.991225,
-    "comments": [
-      "Branch 'feature-search' still exists.",
-      "Branch 'feature-delete' still exists."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1787744868.309835,
-    "completed_at": 1787744871.431833,
-    "comments": [
-      "Branch 'feature-search' still exists.",
-      "Branch 'feature-delete' still exists."
-    ],
-    "status": "Incomplete"
   }
 ]
